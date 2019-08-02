@@ -27,14 +27,14 @@ h1 {
 
 .cleanslate{
 	position:relative;
-	width:700px;
+	width:800px;
     opacity:1;
     display:block;
     height:auto;
 }
 .massage{ 
 position: relative; 
-width: 700px;
+width: 800px;
 opacity: 1;
 display: block;
 height:auto;
@@ -65,12 +65,12 @@ height:auto;
 
 .wastewater{
     position: relative;
-    width: 700px;
+    width: 800px;
 }
 
 .wells {
     position:relative;
-    width:700px
+    width:800px
 }
 
 ul {
@@ -188,4 +188,18 @@ input[type=submit]:hover {
   text-align: center;
   text-decoration: none;
   border-radius: 100%;
+}
+.picofme{
+    opacity: 3;
+    background-color: aliceblue;
+}
+.header{
+    font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-size: 50%;
+  color:#1B5184;
+}
+.column{
+align-items: center;
+padding: 100px;
 }
